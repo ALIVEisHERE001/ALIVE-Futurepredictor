@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with clean architecture patterns in mind and tailored specifically for "ALIVE-Futurepredictor" in the "future_predictor" domain, implemented in Python.
+    This project was conceived with distributed systems resilience in mind and tailored specifically for "ALIVE-Futurepredictor" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `347664b1e3d9` • Generated: 2025-10-30T04:59:22.536709
+    Project Fingerprint: `2ef78fe4b205` • Generated: 2025-10-30T05:02:50.706735
     
 
 ## Insights from Research
 
-- Video: Create diagrams IN SECONDS with AI 😱 #architecture
-- Video: The Mathematics Used By Quant Trading Firms #investing #trading #shorts
-- Video: \"The Best way to predict your future is to create it\"
-- Video: This is the best way to predict the Future🍀 | #shorts
-- Repo idea: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc
+- Video: Architecting Agent Memory: Principles, Patterns, and Best Practices — Richmond Alake, MongoDB
+- Video: AI softwares Architects can't miss!
+- Video: WHAT is the Best AI for Architecture Rendering in 2025?
+- Video: What is a Cognitive Architecture? (Hint: It's a type of AI for robotics and such)
 - Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- Repo idea: :white_check_mark:  The Node.js best practices list (July 2024)
-- Repo idea: A collection of MCP servers.
-- Repo idea: Model Context Protocol Servers
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=MnrCR6UOpSI
-- https://www.youtube.com/watch?v=MnrCR6UOpSI
-- https://www.youtube.com/watch?v=MnrCR6UOpSI
-- https://www.youtube.com/watch?v=MnrCR6UOpSI
+- https://www.youtube.com/watch?v=W2HVdB4Jbjs
+- https://www.youtube.com/watch?v=W2HVdB4Jbjs
+- https://www.youtube.com/watch?v=W2HVdB4Jbjs
+- https://www.youtube.com/watch?v=W2HVdB4Jbjs
 
 
 ## Related Repositories
 
-- donnemartin/system-design-primer ⭐ 324666 — https://github.com/donnemartin/system-design-primer
 - f/awesome-chatgpt-prompts ⭐ 135919 — https://github.com/f/awesome-chatgpt-prompts
-- goldbergyoni/nodebestpractices ⭐ 104468 — https://github.com/goldbergyoni/nodebestpractices
-- punkpeye/awesome-mcp-servers ⭐ 73887 — https://github.com/punkpeye/awesome-mcp-servers
-- modelcontextprotocol/servers ⭐ 71549 — https://github.com/modelcontextprotocol/servers
+- prakhar1989/awesome-courses ⭐ 64046 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10103 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
