@@ -6,7 +6,7 @@ Tests for ALIVE-Futurepredictor
 import unittest
 from main import *
 
-class TestFuturepredictor(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
